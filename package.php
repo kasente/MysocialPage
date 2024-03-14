@@ -1,9 +1,3 @@
-
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -46,72 +40,86 @@
 
 <section class="packages">
 
- <h1 class="heading-title"> Our Safari packages</h1>
+ <h1 class="heading-title"> Get your package</h1>
 
-<div class="box-container">
+ <div class="box-container">
+     <div class="box">
+          <div class="image">
+         <img src=".\image\capo1.jpg" alt="">
 
-   <div class="box">
+          </div>
+
+        <div class="content">
+         <h3>Couple package</h3>
+          <p>Book Your Safari with us. We provide the best safari tours around  Africa.</p>
+         <a href="book.php" class="btn">book now</a>
+          </div>
+    </div>
+
+         <div class="box">
+         <div class="image">
+         <img src=".\image\watoto.jpg" alt="">
+         </div>
+
+       <div class="content">
+         <h3>Family package</h3>
+         <p>Book Your Safari with us. We provide the best safari tours around  Africa.</p>
+         <a href="book.php" class="btn">book now</a>
+         </div>
+       </div>
+     <div class="box">
     <div class="image">
-        <img src="capo1.jpg" alt="">
+        <img src=".\image\capo2.jpg" alt="">
+    </div>
+
+     <div class="content">
+     <h3>Groupe package</h3>
+     <p>Book Your Safari with us. We provide the best safari tours around  Africa.</p>
+     <a href="book.php" class="btn">book now</a>
+     </div>
+     </div>
+
+       <div class="box">
+         <div class="image">
+          <img src=".\image\capo3.jpg" alt="">
+           </div>
+
+          <div class="content">
+           <h3>Solo package</h3>
+           <p>Book Your Safari with us. We provide the best safari tours around  Africa.</p>
+           <a href="book.php" class="btn">book now</a>
+         </div>
+     </div>
+
+
+     <div class="box">
+      <div class="image">
+        <img src=".\image\girls.jpg" alt="">
     </div>
 
    <div class="content">
-    <h3>Couple package</h3>
+    <h3>luxury stay package</h3>
     <p>Book Your Safari with us. We provide the best safari tours around  Africa.</p>
     <a href="book.php" class="btn">book now</a>
    </div>
-
-
-  <div class="box">
-    <div class="image">
-        <img src="watoto.jpg" alt="">
     </div>
-
-  <div class="content">
-    <h3>Family package</h3>
-    <p>Book Your Safari with us. We provide the best safari tours around  Africa.</p>
-    <a href="book.php" class="btn">book now</a>
-  </div>
-
- <div class="box">
-    <div class="image">
-        <img src="capo2.jpg" alt="">
-    </div>
-
-  <div class="content">
-    <h3>Groupe package</h3>
-    <p>Book Your Safari with us. We provide the best safari tours around  Africa.</p>
-    <a href="book.php" class="btn">book now</a>
-  </div>
-
- <div class="box">
-    <div class="image">
-        <img src="capo3.jpg" alt="">
-    </div>
-
- <div class="content">
-    <h3>Solo package</h3>
-    <p>Book Your Safari with us. We provide the best safari tours around  Africa.</p>
-    <a href="book.php" class="btn">book now</a>
-   </div>
-
-
+  
     <div class="box">
-    <div class="image">
-        <img src="kofia.jpg" alt="">
+      <div class="image">
+        <img src=".\image\longstaygirl.jpg" alt="">
     </div>
 
-  <div class="content">
+   <div class="content">
     <h3>log stay package</h3>
     <p>Book Your Safari with us. We provide the best safari tours around  Africa.</p>
     <a href="book.php" class="btn">book now</a>
    </div>
+    </div>
+  
 
 
-  </div>
-</div>
-  <div class="load-more"><a href="package.php"><span class="load-more">load more</span></a></div>
-
+ </div> 
+ <div class="load-more"><a href="package.php" class="btn" >load more</a></div> 
 </section>
 
 <!--package  ends-->

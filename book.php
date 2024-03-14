@@ -1,12 +1,4 @@
 
-
-
-
-
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -43,6 +35,69 @@
 <div class="heading3" >
 <h1>Book now</h1>
 </div>
+
+<!--booking section starts--->
+<section class="booking">
+    <h1 class="heading-title">book your trip!</h1>
+  <forme action="book_form.php" method="post" class="book-form">
+     <div class="flex">
+          <div class="inputBox">
+            <span>name :</span>
+            <input type="text" placeholder="enter your name" name="name">
+          </div>
+
+          <div class="inputBox">
+            <span>email :</span>
+            <input type="text" placeholder="enter your email" name="email">
+          </div>
+          <div class="inputBox">
+            <span>phone :</span>
+            <input type="number" placeholder="enter your number" name="phone">
+            </div>
+
+            <div class="inputBox">
+            <span>address:</span>
+            <input type="text" placeholder="enter your address" name="address">
+            </div>
+        
+            <div class="inputBox">
+            <span>where to:</span>
+            <input type="text" placeholder="where in Africa?" name="location">
+            </div>
+        
+            <div class="inputBox">
+            <span>type of safari/package:</span>
+            <input type="text" placeholder="enter your safari/package" name="safari/package">
+            </div>
+           
+            <div class="inputBox">
+            <span>how many :</span>
+            <input type="number" placeholder="how many guests?" name="guest">
+            </div>
+            
+            <div class="inputBox">
+            <span>arrivals :</span>
+            <input type="date" placeholder="enter your arrivals" name="arrivals">
+            </div>
+
+            <div class="inputBox">
+            <span>departure:</span>
+            <input type="date" placeholder="leaving date" name="departure">
+            </div>
+     </div>
+
+     <input type="submit" value="submit" class=" submit-btn" name="send">
+</forme>
+
+</section>
+
+
+
+
+<!--booking section ends--->
+ 
+
+
 
 
 

@@ -37,7 +37,7 @@
 <section class="home">
   <div class="swiper home-slider">
     <div class=" swiper-wrapper">
-        <div class=" swiper-slide slide" style="background:url(gira.jpg) no-repeat"> 
+        <div class=" swiper-slide slide" style="background:url(./image/gira.jpg) no-repeat"> 
             <div class="content">
                 <span>adventure, exploration, discoveries</span>
                 <h3>discover the new safari's</h3>
@@ -47,7 +47,7 @@
           
         </div>
 
-        <div class="swiper-slide slide" style="background:url(ima.jpg) no-repeat"> <!--am having a bug, the photo are not displayed on the browser-->
+        <div class="swiper-slide slide" style="background:url(./image/ima.jpg) no-repeat"> <!--am having a bug, the photo are not displayed on the browser-->
             <div class="content">
                 <span>Adventure, Exploration, Discoveries</span>
                 <h3>Travel Africa with us</h3>
@@ -56,7 +56,7 @@
             </div>
         </div>
 
-        <div class="swiper-slide slide" style="background:url(watoto.jpg) no-repeat">
+        <div class="swiper-slide slide" style="background:url(./image/watoto.jpg) no-repeat">
             <div class="content">
                 <span>Adventure, Exploration, Discoveries</span>
                 <h3>Get the full safari experience</h3>
@@ -87,34 +87,34 @@
 <div class="box-container">
 
 <div class="box">
-    <img src="safari3.png" alt=""> <!--1-->
+    <img src="./image/safari3.png" alt=""> <!--1-->
     <h3>Adventure Safari   </h3>
 </div>
 
 <div class="box">
-    <img src="safari5.png" alt="">  <!--2-stoped here-->
+    <img src="s./image/afari5.png" alt="">  <!--2-stoped here-->
     <h3>Tour guide </h3>
 </div>
 
 
 <div class="box">
-    <img src="mont1.png" alt="">  
+    <img src="./image/mont1.png" alt="">  
     <h3>Mount Kilimanjaro Safari's </h3>
 </div>
 
 
 <div class="box">
-    <img src="mer.png" alt="">  
+    <img src="./image/mer.png" alt="">  
     <h3>Zanzibar Safari's </h3>
 </div>
 
 <div class="box">
-    <img src="masai.png" alt="">  
+    <img src="./image/masai.png" alt="">  
     <h3>Cultural Safari's </h3>
 </div>
 
 <div class="box">
-    <img src="fami.png" alt="">  
+    <img src="./image/fami.png" alt="">  
     <h3>Hosted by locals </h3>
 </div>
 </div>
@@ -128,7 +128,7 @@
 <!--home about section starts-->
 <section class="home-about">
 <div class="image">
-    <img src="ima.jpg" alt="">
+    <img src="./image/ima.jpg" alt="">
 </div>
 <div class="content">
     <h3>about us</h3>
@@ -140,16 +140,17 @@
 
 <!--home about section ends-->
 
+
 <!--home package section starts-->
 <section class="home-packages">
 
-<h1 class="heading-title">Our Packages</h1>
+<h1 class="heading-title">Our  Safari Adventure</h1>
 
 <div class="box-container">
 
     <div class="box">
         <div class="image">
-            <img src="adv.jpg" alt="">
+            <img src="./image/adv.jpg" alt="">
         </div>
         <div class="content">
             <h3>Adventure Safari</h3>
@@ -161,7 +162,7 @@
 
     <div class="box">
         <div class="image">
-            <img src="zanz.jpg" alt="">
+            <img src="./image/zanz.jpg" alt="">
         </div>
         <div class="content">
             <h3>Zanzibar Safari</h3>
@@ -173,7 +174,7 @@
 
     <div class="box">
         <div class="image">
-            <img src="kili.jpg" alt="">
+            <img src="./image/kili.jpg" alt="">
         </div>
         <div class="content">
             <h3>Mnt Kilimanjaro Safari</h3>
@@ -184,7 +185,7 @@
 
     <div class="box">
         <div class="image">
-            <img src="loco.jpg" alt="">
+            <img src="./image/loco.jpg" alt="">
         </div>
         <div class="content">
             <h3>Cultural Safari</h3>
@@ -196,7 +197,7 @@
 
     <div class="box">
         <div class="image">
-            <img src="hot.jpg" alt="">
+            <img src="./image/hot.jpg" alt="">
         </div>
         <div class="content">
             <h3>Hosted by locals</h3>
@@ -207,7 +208,7 @@
 
     <div class="box">
         <div class="image">
-            <img src="dege.jpg" alt="">
+            <img src="./image/dege.jpg" alt="">
         </div>
         <div class="content">
             <h3>Draft your own safari, we'll do the rest!</h3>

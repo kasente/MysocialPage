@@ -1,7 +1,4 @@
 
-
-
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -43,7 +40,7 @@
 
 <section class="about"> 
 <div class="image">
-    <img src="group.jpg" alt="">
+    <img src="./image/group.jpg" alt="">
 </div>
 <div class="content">
     <h3>why choose us?</h3>
@@ -99,7 +96,7 @@
 <p> Book Your Safari with us. We provide the best safari tours around  Africa.</p>
 <h3>Camille Svensson</h3>
 <span>traveler</span>
-<img src="M1.jpg" alt="">
+<img src="./iamge/M1.jpg" alt="">
 
  </div>
 
@@ -114,7 +111,7 @@
 <p> Book Your Safari with us. We provide the best safari tours around  Africa.</p>
 <h3>Sarah Philippina</h3>
 <span>traveler</span>
-<img src="M2.jpg" alt="">
+<img src="./image/M2.jpg" alt="">
 
  </div>
 
@@ -129,7 +126,7 @@
 <p> Book Your Safari with us. We provide the best safari tours around  Africa.</p>
 <h3>Bravo boy</h3>
 <span>traveler</span>
-<img src="M3.jpg" alt="">
+<img src="./image/M3.jpg" alt="">
 
  </div>
 
@@ -144,7 +141,7 @@
 <p> Book Your Safari with us. We provide the best safari tours around  Africa.</p>
 <h3>Leo Garcia </h3>
 <span>traveler</span>
-<img src="M4.jpg" alt="">
+<img src="./imahe/M4.jpg" alt="">
 </div>
 
 <div class="slide">
@@ -156,7 +153,7 @@
 <p> Book Your Safari with us. We provide the best safari tours around  Africa.</p>
 <h3>Kevin Trotor</h3>
 <span>traveler</span>
-<img src="M5.jpg" alt="">
+<img src="./image/M5.jpg" alt="">
 </div>
 
 <div class="swiper-slider slide">
@@ -170,7 +167,7 @@
 <p> Book Your Safari with us. We provide the best safari tours around  Africa.</p>
 <h3>Valerie Giramondo</h3>
 <span>traveler</span>
-<img src="M6.jpg" alt="">
+<img src="./image/M6.jpg" alt="">
 
  </div>
 
